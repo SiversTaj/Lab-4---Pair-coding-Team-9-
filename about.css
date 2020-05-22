@@ -135,3 +135,12 @@ li nav:active {
     text-decoration: none;
     color: black;
 }
+
+/*css for home page */
+
+#homepagetext div {
+    background: #c3dbff;
+    padding: 50px 50px 100px;
+    margin: 0;
+    color: #333;
+}
